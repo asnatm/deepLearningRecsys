@@ -3,4 +3,4 @@ This repository contains files for the deep learning for recsys hands-on worksho
 We will present two use cases:
 ## Session based recommendation
 ## Neural collaborative filtering
-Materials for this use case are available at (https://github.com/goolig/neural_collaborative_filtering.git).
+Materials for this use case are available at https://github.com/goolig/neural_collaborative_filtering.git.
