@@ -9,12 +9,18 @@ It is based on our paper "Item Embedding for Session Based Recommendation" https
 - GloVe (optional) http://nlp.stanford.edu/projects/glove/
 - Recsys 15' challenge dataset http://2015.recsyschallenge.com/challenge.html (a shorter version is available in this repository)
 
-# Workshop structure
+## Workshop structure
 The hands-on exercise includes the following steps:
 - Pre-processing 1: train\test, corpus file to GloVe
 - GloVe (optional): vocab, vectors files
 - Pre-processing 2 (optional):  NN in - sequence format + word embedding, NN out – one hot by vocab
 - Model train
 - Model test (calc recall@10)
+
+## Materials
+- data : a short version of the recsys 15' challenge data
+- pre-train : outputs for each step to save time during the workshop
+- solution : jupyter notebook solution
+- root: presentation, python code, jupyter notebook for each step (besides GloVe)
 
 
